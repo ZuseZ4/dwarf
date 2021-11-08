@@ -23,6 +23,7 @@
 
 
 ; START HERE
+!1094 = !DILocalVariable(name: "animal", scope: !1095, file: !1051, line: 54, type: !579, align: 8)
 
 !579 = !DICompositeType(tag: DW_TAG_structure_type, name: "Box<dyn crate::Animal, alloc::alloc::Global>", size: 128, align: 64, elements: !581, templateParams: !584, identifier: "347..")
 !581 = !{!582, !583}
